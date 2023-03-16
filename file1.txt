@@ -1,2 +1,2 @@
 file1 added
-file1 new content added
+master content
